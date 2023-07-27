@@ -4,7 +4,7 @@
 
 Trabalhei como Gerente em Transportes por 20 anos e passei a prestar consultoria, entendi que transformar dados em informação é o que mais contribui para a evolução das empresas, portanto me dedico em estudos de Data Science e Machine Learning.
 
-Skills: PYTHON / R / PANDAS / SQL / TABLEAU
+Skills: PYTHON / R / PANDAS / SQL 
 
 - 🔭 Atualmente trabalho com Consultoria 
 - 🌱 Hoje estudo R, SQL 
